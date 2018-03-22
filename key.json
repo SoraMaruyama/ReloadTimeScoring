@@ -1,13 +1,13 @@
 {
     "type": "service_account",
-    "project_id": "techacademy-test",
+    "project_id": "project_id",
     "private_key_id": "private key id",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuobCLqDdBpwu5\nix1s0Y/vqKqH2v/OYA1ObKYxCSzYhdM6T2MUVHwQGSt8x6fKiJVVPzZXmsGJ6z4f\nYUOGNZqaRU5iZKzUH9fKPJoSbgRiCVdT97Z70nlYwamh7ffguHGwBIpWmwApyB1d\nxTEVbAPvu7dimR16TUZUBCDzPtJ6zbMgY8KjB8I3nYWTC283QiMedWn9ZSboOAay\nnN0Rm7pcUYtH6oT/lACX9xUGK/easYgNxuJaxTwDf5iKwaf5WNdDX6RjU2Py52DP\nAR7FkADg6m1qV6wT1Fz55PwYQQdiv9is8QS0i4DCF6PQlOEFfOGKEX1P0kuRA0NO\nbTsL9SslAgMBAAECggEAIuEZG7/Qr4x/j0LdsPEnXFEWJHXln3D4X2hchlFEk4eh\nMZWPHs2kDOwWD0Fqfk2q9ACg6Dz4+ITTnt1kqP72XudGWWktyt2EUniptlIijnk6\np8MDf/ZBNezSZo0a9Beq32L8xYEGdpHpaaP74oE1RRH7dhZKeLXL/PZpJWRwEkZE\nFwm4pa7UB+zainpUQ5e90vnw1V+ChqbBzXd1U9Vtt1ppflCzpWABY15o2xKemJjc\nMsqN5U0EAxiNSouIPKFd973UO174T/rmGgDaMF316m0zSCJQTgo+kL/5SV1dx+4q\nGpRgLPdRNDXEF5D11oGvVCn3202jv7lsECt7bAwpSQKBgQDrI9SrEP1Tiq5aObeo\n9o4uSKGTI6tWbYMCLPYEPtJghSxUuKtrUTlkfsGrSMyt76NJ3WZedRGTD+r/65Ak\ncedqLNmb/xXgJkKFBeVwWbRDoOAd5bnm9iWoy67pn1OvEkvy5DfZPOhcUXIYksLt\nh29eWL2Aftjq4F8kb+lowXbUCQKBgQC+H62BQop1vZMq6YVRbccKgV+7Or4pt1CC\nPyICFCMX7UWc3nqg6c9d010epl5SPqVDbqg6Z2DMpXAkwzitD4kKJUJSMmUEWHRz\n4S8eFZGVD+hTZMPv7gF1W5QWlSKxxLUK0N/M227wzGj4FgFeofvlAuwv1gFcZlvy\n1YwJ4cq9PQKBgChGLdHTCiC5+xz3D87/0+B3jj0eeeVGwo6n1sdpXy0rAinMq4ep\nFNRypYdJ48zS47vuEO+Sy5zNuCl3Vmv3mnRkFC2U5lFLHE+eb+rrYmXG8zwLseiu\nNksP//iB0pqE3r9OeYZa2U2eoZU15e87KEcXmfWdRFgOcB1UkbzgjhLJAoGALVWK\nXrcKIvcYP3Q9WORPQL8Gn7NrIrFWXihFqK86ivsFzVjzbqkxzBKZMrTC6uOLLqAV\nNw/tcf7E1c9DFWkN6UBnJwhjM/0Pj44TWR4Vf7CyWig93FkpOd2jWxsmkbLw5GpX\n4xYzxvFG2lkM7I69bKccwG9MFcdGh4nKAZU4bZUCgYEAncyBjZcnhKKtSrqGcEgd\ns/EM/6jTRb/COx0NiibQncllUJ5OQftyMI4KipzSXtPri6637V5ga86xU1tUMFrA\nhx3XaTuvfTdKIin522mAyJoBLB9axdA/oit/Qn6HyyUbdA+dE2o82vGroCgS4VNk\nu6FnV1hc4SsMY4HpsmNQidQ=\n-----END PRIVATE KEY-----\n",
+    "private_key": "private_key",
     "client_email": "client email",
     "client_id": "client id",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://accounts.google.com/o/oauth2/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/techacademy-test%40techacademy-test.iam.gserviceaccount.com"
+    "auth_uri": "auth_uri",
+    "token_uri": "token_uri",
+    "auth_provider_x509_cert_url": "auth_provider_x509_cert_url",
+    "client_x509_cert_url": "client_x509_cert_url"
   }
   
